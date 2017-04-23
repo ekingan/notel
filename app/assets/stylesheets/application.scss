@@ -29,9 +29,10 @@
   text-decoration: none;
 }
 .jumbotron {
-  background-image: asset-url('lake.jpg');
+  background-image: asset-url('notel.jpg');
   background-size: cover;
-  height: 750px;
+  height: 800px;
+  background-position: center;
 }
 footer {
   margin-top: 45px;
